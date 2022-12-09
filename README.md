@@ -1,1 +1,1 @@
-# Calculator
+# Console calculator
